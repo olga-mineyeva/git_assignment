@@ -1,4 +1,4 @@
-# Git Assignment - <Your GitHub Username>
+# Git Assignment - <olga-mineyeva>
 
 
     a. What is an issue?  It is a tool for project management in GitHub
